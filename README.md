@@ -11,7 +11,6 @@
 
 ## 1. Descrição
 
-Descreva brevemente o seu projeto
 
 Este projeto consiste em uma API REST desenvolvida em TypeScript utilizando o
 framework NestJS, com o objetivo de realizar o gerenciamento de colaboradores de uma
@@ -44,7 +43,6 @@ em um banco de dados MySQL.
 
 ## 3. Diagrama de Classes
 
-Adicione a imagem do Diagrama de Classes (se houver)
 
 <div align="center">
     <img src="/src/assets/diagrama classe.png" title="diagrama de classe" width="50%"/>
@@ -54,7 +52,6 @@ Adicione a imagem do Diagrama de Classes (se houver)
 
 ## 4. Diagrama Entidade-Relacionamento (DER)
 
-Adicione a imagem do DER
 
 <div align="center">
     <img src="/src/assets/diagrama bd.png" title="diagrama Entidade-Relacionamento" />
