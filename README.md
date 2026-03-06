@@ -1,4 +1,4 @@
-# Nome do Projeto - RH Manger
+# Nome do Projeto - RH Manager
 
 <br />
 
