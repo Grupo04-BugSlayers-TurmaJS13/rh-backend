@@ -21,7 +21,7 @@ exports.AppModule = AppModule = __decorate([
                 host: 'localhost',
                 port: 3306,
                 username: 'root',
-                password: 'root',
+                password: '1306',
                 database: 'db_RHmanager',
                 entities: [colaborador_entity_1.Colaborador],
                 synchronize: true,

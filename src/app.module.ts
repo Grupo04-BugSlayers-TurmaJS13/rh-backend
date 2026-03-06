@@ -9,7 +9,7 @@ import { ColaboradorModule } from './colaborador/colaborador.module';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'root',
+      password: '1306',
       database: 'db_RHmanager',
       entities: [Colaborador],
       synchronize: true,
